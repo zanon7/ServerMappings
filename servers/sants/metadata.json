@@ -1,0 +1,28 @@
+{
+    "id": "sants",
+    "name": "Sants Network",
+    "description": "The best competitively SA PvP server",
+    "website": "https://sants.rip",
+    "store": "https://store.sants.rip",
+    "addresses": [
+        "sants.rip"
+    ],
+    "primaryAddress": "sants.rip",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FFFF55",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.*",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/bD96jyMB9t",
+    }
+}
